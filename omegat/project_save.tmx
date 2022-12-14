@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -54,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Script compatibility&lt;/a0&gt; - AutoHotkey 1.0 users read this</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221213T200252Z" creationid="user" creationdate="20221213T200252Z">
+        <seg>&lt;a0&gt;Script comptabiliteit&lt;/a0&gt; - AutoHotkey 1.0 gebruikers moeten het lezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A special thanks to Jonathan Bennett, whose generosity in releasing AutoIt v2 as free software in 1999 served as an inspiration and time-saver for myself and many others worldwide.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221213T202046Z" creationid="user" creationdate="20221213T202046Z">
+        <seg>Een speciale dank aan Jonathan Bennet, wiens vrijgevigheid in het openstellen van AutoIt v2 als open-source software in 1999 de basis legde als een inspiratie en tijdbespaarder voor mijzelf en vele anderen wereldwijd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221213T201055Z" creationid="user" creationdate="20221213T201055Z">
+        <seg>Erkenning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Help</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T150744Z" creationid="Ragnar-F" creationdate="20221205T150744Z">
@@ -90,6 +114,14 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151249Z" creationid="Ragnar-F" creationdate="20221205T151249Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RegEx quick reference</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
+        <seg>RegEx snelle referenties </seg>
       </tuv>
     </tu>
     <tu>
