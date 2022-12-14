@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221214T182906Z" creationid="user" creationdate="20221214T182906Z">
+        <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151340Z" creationid="Ragnar-F" creationdate="20221205T151340Z">
