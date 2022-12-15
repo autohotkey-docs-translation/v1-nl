@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Getting started:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203633Z" creationid="user" creationdate="20221215T203633Z">
+        <seg>Aan de slag::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IE=edge</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T202619Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
         <seg>RegEx snelle referenties </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Software License:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203258Z" creationid="user" creationdate="20221215T203258Z">
+        <seg>Software licentie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151815Z" creationid="Ragnar-F" creationdate="20221205T151815Z">
         <seg>};</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>©2003-2014 Chris Mallett, portions ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; and the AHK community</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203331Z" creationid="user" creationdate="20221215T203331Z">
+        <seg>©2003-2014 Chris Mallett, portions ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; en de AHK gemeenschap</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
