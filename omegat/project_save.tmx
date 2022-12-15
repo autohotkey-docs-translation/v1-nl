@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to use the program</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203655Z" creationid="user" creationdate="20221215T203655Z">
+        <seg>Hoe moet je het programma gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IE=edge</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T202619Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203207Z" creationid="user" creationdate="20221215T202414Z">
         <seg>Deze pagina bevat informatie over de huidige versie, de auteurs, de licentie en een kort overzicht van de documentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorial for beginners</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203833Z" creationid="user" creationdate="20221215T203833Z">
+        <seg>Handleiding voor beginners</seg>
       </tuv>
     </tu>
     <tu>
