@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>IE=edge</seg>
       </tuv>
-      <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151128Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
-        <seg>IE=edge</seg>
+      <tuv lang="nl" changeid="user" changedate="20221215T202619Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
+        <seg>dIE=edge</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
         <seg>RegEx snelle referenties </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page contains information about the currently used version, the authors, the license, and a quick overview of the documentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T202414Z" creationid="user" creationdate="20221215T202414Z">
+        <seg>Deze pagina bevat informatie over briefThis page contains information about the currently used version, the authors, the license, and a quick overview of the documentation.</seg>
       </tuv>
     </tu>
     <tu>
