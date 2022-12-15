@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, AutoHotkey would not be what it is today without &lt;a0&gt;these other individuals&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T205831Z" creationid="user" creationdate="20221215T205831Z">
+        <seg>Als laatste, AutoHotkey zou niet zijn wat het vandaag is zonder&lt;a0&gt;deze individuele personen&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently asked questions</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203900Z" creationid="user" creationdate="20221215T203900Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203258Z" creationid="user" creationdate="20221215T203258Z">
         <seg>Software licentie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text editors with AutoHotkey support</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T205931Z" creationid="user" creationdate="20221215T205931Z">
+        <seg>Tekst editors die AutoHotkey ondersteunen</seg>
       </tuv>
     </tu>
     <tu>
