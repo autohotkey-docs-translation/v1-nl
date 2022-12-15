@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204350Z" creationid="user" creationdate="20221215T204350Z">
+        <seg>Functies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Getting started:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203633Z" creationid="user" creationdate="20221215T203633Z">
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Miscellaneous topics</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204219Z" creationid="user" creationdate="20221215T204219Z">
+        <seg>Allerlei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NUL</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151249Z" creationid="Ragnar-F" creationdate="20221205T151249Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204412Z" creationid="user" creationdate="20221215T204412Z">
+        <seg>Objecten</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +194,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203833Z" creationid="user" creationdate="20221215T203833Z">
         <seg>Handleiding voor beginners</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables and expressions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204342Z" creationid="user" creationdate="20221215T204342Z">
+        <seg>Variabelen en expressies</seg>
       </tuv>
     </tu>
     <tu>
