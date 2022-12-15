@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T203900Z" creationid="user" creationdate="20221215T203900Z">
+        <seg>Veel gestelde vragen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Getting started:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203633Z" creationid="user" creationdate="20221215T203633Z">
@@ -338,6 +346,22 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151127Z" creationid="Ragnar-F" creationdate="20221205T151127Z">
         <seg>nl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>explanations of various things you need to know.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204010Z" creationid="user" creationdate="20221215T204010Z">
+        <seg>Verscheidene dingen die je moet weten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>how to write scripts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204153Z" creationid="user" creationdate="20221215T204153Z">
+        <seg>Hoe schrijf je een scripts.</seg>
       </tuv>
     </tu>
     <tu>
