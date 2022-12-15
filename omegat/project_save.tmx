@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So thanks to Jon and the other AutoIt authors for those as well.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T205613Z" creationid="user" creationdate="20221215T205613Z">
+        <seg>Dus ook een dankjewel aan de andere AutoIt auteurs </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Software License:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203258Z" creationid="user" creationdate="20221215T203258Z">
