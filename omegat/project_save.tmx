@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition, many of AutoHotkey's enhancements to the AutoIt v2 command set, as well as the Window Spy and the old script compiler, were adapted directly from the AutoIt v3 source code.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T205530Z" creationid="user" creationdate="20221215T205530Z">
+        <seg>Ter aanvulling, veel van de Autohotkey's verbeteringen aan de AutoIt v2 command set, alsook Window Spy en de oude script compiler, werden direct van AutoIt v3 broncode aangepast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index.hhk</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151238Z" creationid="Ragnar-F" creationdate="20221205T151238Z">
@@ -206,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204820Z" creationid="user" creationdate="20221215T204820Z">
+        <seg>Ander::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RegEx quick reference</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
         <seg>RegEx snelle referenties </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remapping keys and buttons</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204806Z" creationid="user" creationdate="20221215T204806Z">
+        <seg>Opnieuw toewijzen van toetsen en knoppen</seg>
       </tuv>
     </tu>
     <tu>
