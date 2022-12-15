@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hotkeys (mouse, joystick and keyboard shortcuts)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204508Z" creationid="user" creationdate="20221215T204508Z">
+        <seg>Hotkeys (muis, joystick and toetsenbord sneltoetsen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotstrings and auto-replace</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204542Z" creationid="user" creationdate="20221215T204542Z">
+        <seg>Hotstrings en auto-replace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to use the program</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203655Z" creationid="user" creationdate="20221215T203655Z">
@@ -138,6 +154,30 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151238Z" creationid="Ragnar-F" creationdate="20221205T151238Z">
         <seg>Index.hhk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interactive debugging</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204425Z" creationid="user" creationdate="20221215T204425Z">
+        <seg>Interactief debugging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard and mouse:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204438Z" creationid="user" creationdate="20221215T204438Z">
+        <seg>Toetsenbord en muis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of keys, mouse buttons and joystick controls</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221215T204718Z" creationid="user" creationdate="20221215T204718Z">
+        <seg>Lijst van toetsen, muisknoppen en joystick controls</seg>
       </tuv>
     </tu>
     <tu>
