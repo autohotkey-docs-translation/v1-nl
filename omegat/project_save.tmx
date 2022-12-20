@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194330Z" creationid="user" creationdate="20221220T194330Z">
+        <seg>Omschrijving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194353Z" creationid="user" creationdate="20221220T194353Z">
+        <seg>Item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, AutoHotkey would not be what it is today without &lt;a0&gt;these other individuals&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205831Z" creationid="user" creationdate="20221215T205831Z">
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204806Z" creationid="user" creationdate="20221215T204806Z">
         <seg>Opnieuw toewijzen van toetsen en knoppen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets the default encoding for &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194451Z" creationid="user" creationdate="20221220T194451Z">
+        <seg>Zet de standaard encoding voor&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
