@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey_L New Features | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T191012Z" creationid="user" creationdate="20221220T191012Z">
+        <seg>Autohotkey_L nieuwe functionaliteiten | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command and function list</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205956Z" creationid="user" creationdate="20221215T205956Z">
