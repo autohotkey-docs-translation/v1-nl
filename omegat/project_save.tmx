@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Improvements&lt;/a0&gt; were made to the way parameters are parsed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T195734Z" creationid="user" creationdate="20221220T195734Z">
+        <seg>S&lt;a0&gt;Verbeteringen&lt;/a0&gt; werden gemaakt aan de manier hoe parameters werden ingelezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Script compatibility&lt;/a0&gt; - AutoHotkey 1.0 users read this</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T200252Z" creationid="user" creationdate="20221213T200252Z">
