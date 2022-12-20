@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>Break out of a loop or any number of nested loops.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T193048Z" creationid="user" creationdate="20221220T193048Z">
-        <seg>Stopt de lus of andere geneste lussen.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221220T193450Z" creationid="user" creationdate="20221220T193048Z">
+        <seg>Stopt de lus of aantal geneste lussen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205956Z" creationid="user" creationdate="20221215T205956Z">
         <seg>Lijst van Command en functies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue a loop, even from within any number of nested loops.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T193324Z" creationid="user" creationdate="20221220T193324Z">
+        <seg>Verdergaan met de loop, zelfs van binnenin een geneste loop.</seg>
       </tuv>
     </tu>
     <tu>
