@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i0&gt;See also:&lt;/i0&gt; &lt;a1&gt;Text Encodings&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194839Z" creationid="user" creationdate="20221220T194839Z">
+        <seg>&lt;i0&gt;Zie ook:&lt;/i0&gt; &lt;a1&gt;Text Encodings&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This document has been neglected in recent years and may be missing some of the more recent changes.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T191807Z" creationid="user" creationdate="20221220T191807Z">
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read, write or delete entire sections, or retrieve a list of all section names.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T195017Z" creationid="user" creationdate="20221220T195017Z">
+        <seg>Lees, schrijf of verwijder Gehele secties, of haal een lijst van alle sectie namen op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RegEx quick reference</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
@@ -360,8 +376,8 @@
       <tuv lang="en">
         <seg>Sets the default encoding for &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T194451Z" creationid="user" creationdate="20221220T194451Z">
-        <seg>Zet de standaard encoding voor&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221220T194638Z" creationid="user" creationdate="20221220T194451Z">
+        <seg>Zet de standaard codering voor&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
