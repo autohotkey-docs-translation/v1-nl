@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>Read, write or delete entire sections, or retrieve a list of all section names.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T195017Z" creationid="user" creationdate="20221220T195017Z">
-        <seg>Lees, schrijf of verwijder Gehele secties, of haal een lijst van alle sectie namen op.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221220T201434Z" creationid="user" creationdate="20221220T195017Z">
+        <seg>Lees, schrijf of verwijder gehele secties, of haal een lijst van alle sectie namen op.</seg>
       </tuv>
     </tu>
     <tu>
