@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perform code page or HTML transformations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T200757Z" creationid="user" creationdate="20221220T200757Z">
+        <seg>Voert code pagina of HTML transformaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides structured exception handling.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194146Z" creationid="user" creationdate="20221220T194146Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204806Z" creationid="user" creationdate="20221215T204806Z">
         <seg>Opnieuw toewijzen van toetsen en knoppen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieves the full path and name of the process that owns a given window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T201006Z" creationid="user" creationdate="20221220T201006Z">
+        <seg>Haalt het volledige path en naam van het process die is toegekend aan een bepaald scherm.</seg>
       </tuv>
     </tu>
     <tu>
