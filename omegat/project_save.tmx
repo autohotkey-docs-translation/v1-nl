@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sends a Unicode character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T195805Z" creationid="user" creationdate="20221220T195805Z">
+        <seg>Zet een Unicode karakters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets or removes a menu item's icon.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T195356Z" creationid="user" creationdate="20221220T195356Z">
