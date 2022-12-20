@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets or removes a menu item's icon.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T195356Z" creationid="user" creationdate="20221220T195356Z">
+        <seg>stelt het icon van het menu in, of verwijdert ze .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets the default encoding for &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194638Z" creationid="user" creationdate="20221220T194451Z">
