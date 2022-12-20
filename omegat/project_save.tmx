@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides structured exception handling.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194146Z" creationid="user" creationdate="20221220T194146Z">
+        <seg>Zorgt voor een gestructureerde afhandeling van uitzonderingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RegEx quick reference</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203207Z" creationid="user" creationdate="20221215T202414Z">
         <seg>Deze pagina bevat informatie over de huidige versie, de auteurs, de licentie en een kort overzicht van de documentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throws an exception.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194319Z" creationid="user" creationdate="20221220T194319Z">
+        <seg>Geeft een uitzondering terug.</seg>
       </tuv>
     </tu>
     <tu>
