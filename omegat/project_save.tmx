@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>Break out of a loop or any number of nested loops.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T193450Z" creationid="user" creationdate="20221220T193048Z">
-        <seg>Stopt de lus of aantal geneste lussen.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221220T193508Z" creationid="user" creationdate="20221220T193048Z">
+        <seg>Stopt de loop of aantal geneste lussen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +258,22 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204718Z" creationid="user" creationdate="20221215T204718Z">
         <seg>Lijst van toetsen, muisknoppen en joystick controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loop through the contents of an object.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T193619Z" creationid="user" creationdate="20221220T193619Z">
+        <seg>Loop door de inhoud van een object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loop until a condition is true.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T193655Z" creationid="user" creationdate="20221220T193655Z">
+        <seg>Loop until een voorwaarde is waar (true).</seg>
       </tuv>
     </tu>
     <tu>
