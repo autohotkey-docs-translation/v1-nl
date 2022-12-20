@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows registry commands in a 32-bit script to access the 64-bit registry view and vice versa.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T200609Z" creationid="user" creationdate="20221220T200609Z">
+        <seg>Laat register opdrachten in een 32-bit script toe verbinding te maken met het 64-bit register view en vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Applicable to any type of Loop.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194047Z" creationid="user" creationdate="20221220T194047Z">
