@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Applicable to any type of Loop.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T194047Z" creationid="user" creationdate="20221220T194047Z">
+        <seg>Van toepassing op alle types van loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Help</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T150744Z" creationid="Ragnar-F" creationdate="20221205T150744Z">
