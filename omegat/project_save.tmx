@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break out of a loop or any number of nested loops.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221220T193048Z" creationid="user" creationdate="20221220T193048Z">
+        <seg>Stopt de lus of andere geneste lussen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command and function list</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205956Z" creationid="user" creationdate="20221215T205956Z">
