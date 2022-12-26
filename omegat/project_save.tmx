@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prior to revision 17, an arbitrary icon resource was selected by the system, scaled to the system large icon size, then scaled back to the requested size.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T191954Z" creationid="user" creationdate="20221226T191954Z">
+        <seg>Eerdere revisie 17, een willekeuringe icon-bron  was geselecteerd door het systeem, geschaald naar het grote icon van het systeem, waarna het terug werd geschaald naar de gevraagde grootte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides an interface to access a file.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T133320Z" creationid="user" creationdate="20221226T133320Z">
