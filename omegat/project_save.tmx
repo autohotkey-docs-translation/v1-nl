@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>Interactive debugging features (line by line execution etc.).</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T135710Z" creationid="user" creationdate="20221226T135710Z">
-        <seg>interactief debugging eigenschappen (lijn na lijn uitvoering etc.).</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T135833Z" creationid="user" creationdate="20221226T135710Z">
+        <seg>Interactief debugging eigenschappen (lijn na lijn uitvoering etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +642,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T133541Z" creationid="user" creationdate="20221226T133541Z">
         <seg>Vertegenwoordigd een user-defined of ingebouwde function die door het script kan worden aangeroepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resource identifiers and improved support for various icon sizes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140130Z" creationid="user" creationdate="20221226T140130Z">
+        <seg>Bron identifiers en verbeterde hulp voor verscheidene icon groottes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try/catch/throw and increased usefulness for A_LastError.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135810Z" creationid="user" creationdate="20221226T135810Z">
+        <seg>Try/catch/throw een verhoogde bruikbaarheid voorA_LastError.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tutorial for beginners</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203833Z" creationid="user" creationdate="20221215T203833Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204342Z" creationid="user" creationdate="20221215T204342Z">
         <seg>Variabelen en expressies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Various enhancements to the Gui command and related.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135949Z" creationid="user" creationdate="20221226T135829Z">
+        <seg>Verscheidene verbeteringen aan de Gui command en gerelateerd.</seg>
       </tuv>
     </tu>
     <tu>
