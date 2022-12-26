@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions may accept a variable number of parameters via an array.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T132354Z" creationid="user" creationdate="20221226T132354Z">
+        <seg>Functies kunnen een variabel aantal parameters via een array ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Getting started:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203633Z" creationid="user" creationdate="20221215T203633Z">
