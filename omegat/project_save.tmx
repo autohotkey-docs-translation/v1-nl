@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Represents a user-defined or built-in function which can be called by the script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T133541Z" creationid="user" creationdate="20221226T133541Z">
+        <seg>Vertegenwoordigd een user-defined of ingebouwde function die door het script kan worden aangeroepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieves a &lt;a0&gt;reference&lt;/a0&gt; to a function.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T130910Z" creationid="user" creationdate="20221226T130910Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
         <seg>zoekt naar een opgeheven &lt;e0&gt;occurrence&lt;/e0&gt; of een string, van links naar rechts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See ComObj functions above.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T133622Z" creationid="user" creationdate="20221226T133622Z">
+        <seg>Zie ComObj functies hieboven.</seg>
       </tuv>
     </tu>
     <tu>
