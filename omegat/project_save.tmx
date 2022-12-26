@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Queries a COM object for an interface or service.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T130100Z" creationid="user" creationdate="20221226T130100Z">
+        <seg>Query's een COM object voor een interface of een dienst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read, write or delete entire sections, or retrieve a list of all section names.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201434Z" creationid="user" creationdate="20221220T195017Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201006Z" creationid="user" creationdate="20221220T201006Z">
         <seg>Haalt het volledige path en naam van het process die is toegekend aan een bepaald scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Returns a reference to an object provided by a COM component.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T125841Z" creationid="user" creationdate="20221226T125841Z">
+        <seg>Geeft een referentie naar een object verstrekt door een COM component terug.</seg>
       </tuv>
     </tu>
     <tu>
