@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Static variables can now be initialized using any expression.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T132542Z" creationid="user" creationdate="20221226T132542Z">
+        <seg>Static variables kunnen nu geïinitialiseerd worden via een expressie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text editors with AutoHotkey support</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205931Z" creationid="user" creationdate="20221215T205931Z">
