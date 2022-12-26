@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt; and &lt;a3&gt;FileAppend&lt;/a3&gt; support the majority of Windows-supported text encodings, not just the system default ANSI code page.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T185448Z" creationid="user" creationdate="20221226T185448Z">
+        <seg>&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt; and &lt;a3&gt;FileAppend&lt;/a3&gt; ondersteund het overgrote deel van de Windows-ondersteunende tekst codering, niet enkel de standaard systeem ANSI code pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Font quality&lt;/a0&gt; can be controlled by the Font sub-command.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T184751Z" creationid="user" creationdate="20221226T184751Z">
@@ -694,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox % Time() "ms since the script started."</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T185105Z" creationid="user" creationdate="20221226T185105Z">
+        <seg>MsgBox % Time() "ms sinds het script is gestart."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox An error occured!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T185048Z" creationid="user" creationdate="20221226T185017Z">
+        <seg>MsgBox Er trad een fout op!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NUL</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151249Z" creationid="Ragnar-F" creationdate="20221205T151249Z">
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T134438Z" creationid="user" creationdate="20221226T134438Z">
         <seg>Ondersteunt Windows 7 en Windows 8; zie &lt;a0&gt;A_OSVersion&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Encodings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T185148Z" creationid="user" creationdate="20221226T185148Z">
+        <seg>Text Codering</seg>
       </tuv>
     </tu>
     <tu>
