@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains the size of a pointer, in bytes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T134806Z" creationid="user" creationdate="20221226T134806Z">
+        <seg>bevat de grote van de pointer, in bytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue a loop, even from within any number of nested loops.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T193324Z" creationid="user" creationdate="20221220T193324Z">
