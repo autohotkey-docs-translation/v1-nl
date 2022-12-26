@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>Sets the default encoding for &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T194638Z" creationid="user" creationdate="20221220T194451Z">
-        <seg>Zet de standaard codering voor&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T114233Z" creationid="user" creationdate="20221220T194451Z">
+        <seg>Zet de standaard codering voor &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileReadLine&lt;/a1&gt;, &lt;a2&gt;Loop Read&lt;/a2&gt;, &lt;a3&gt;FileAppend&lt;/a3&gt;, and &lt;a4&gt;FileOpen()&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
