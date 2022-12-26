@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieves a registered COM object.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T121816Z" creationid="user" creationdate="20221226T121816Z">
+        <seg>Krijgt een geregistreerd COM-object terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieves the full path and name of the process that owns a given window.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201006Z" creationid="user" creationdate="20221220T201006Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221214T182906Z" creationid="user" creationdate="20221214T182906Z">
         <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wraps a value and type to pass as a parameter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T122430Z" creationid="user" creationdate="20221226T122430Z">
+        <seg>Wikkel en waarde en type om als parameters door te geven.</seg>
       </tuv>
     </tu>
     <tu>
