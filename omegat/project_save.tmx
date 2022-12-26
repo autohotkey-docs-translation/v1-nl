@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connects a COM object's event sources to functions with a given prefix.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T123301Z" creationid="user" creationdate="20221226T123301Z">
+        <seg>Connecteert met een COM object's event bron van functies met een meegegeven prefix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue a loop, even from within any number of nested loops.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T193324Z" creationid="user" creationdate="20221220T193324Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T200021Z" creationid="user" creationdate="20221220T200021Z">
         <seg>Controleert welk artificieel keyboard en muis events zijn genegeerd door hotkeys en hotstrings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates a SAFEARRAY for use with COM.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T122655Z" creationid="user" creationdate="20221226T122655Z">
+        <seg>Maakt een SAFEARRAY om te gebruiken met COM.</seg>
       </tuv>
     </tu>
     <tu>
