@@ -1,3 +1,4 @@
 Retrieves	Terugkrijgen
 Enables or disables	Activeert of de-activeert
 Provides	biedt ook
+Determines	Bepaalt
