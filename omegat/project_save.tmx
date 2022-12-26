@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies a string to or from a memory address, optional converting it between code pages.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131706Z" creationid="user" creationdate="20221226T131706Z">
+        <seg>Kopieert een string naar of van een geheugen-adres, converteert het optioneel tussen code pagina's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates a COM object.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T123350Z" creationid="user" creationdate="20221226T123350Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194319Z" creationid="user" creationdate="20221220T194319Z">
         <seg>Geeft een uitzondering terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trims certain characters from the beginning and/or end of a string.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131810Z" creationid="user" creationdate="20221226T131810Z">
+        <seg>Verwijdert bepaalde karakters van het begin en/of het einde van de string.</seg>
       </tuv>
     </tu>
     <tu>
