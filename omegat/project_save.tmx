@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes affecting script compatibility.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140218Z" creationid="user" creationdate="20221226T140218Z">
+        <seg>Veranderingen script comptabiliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes which key is used to mask Win or Alt keyup events.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T120356Z" creationid="user" creationdate="20221226T120356Z">
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error Handling</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140307Z" creationid="user" creationdate="20221226T140307Z">
+        <seg>Fouten opvangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Feature</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194353Z" creationid="user" creationdate="20221220T194353Z">
@@ -386,6 +402,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T203633Z" creationid="user" creationdate="20221215T203633Z">
         <seg>Aan de slag::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History of AutoHotkey_L revisions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140248Z" creationid="user" creationdate="20221226T140248Z">
+        <seg>Geschiedenis van AutoHotkey_L revisions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +546,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T193655Z" creationid="user" creationdate="20221220T193655Z">
         <seg>Loop until een voorwaarde is waar (true).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many commands support using &lt;a0&gt;try&lt;/a0&gt;/&lt;a1&gt;catch&lt;/a1&gt; instead of ErrorLevel for error handling.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140431Z" creationid="user" creationdate="20221226T140431Z">
+        <seg>Veel commands ondersteunen het gebruik van&lt;a0&gt;try&lt;/a0&gt;/&lt;a1&gt;catch&lt;/a1&gt; in plaats vanErrorLevel voor het opvangen van fouten.</seg>
       </tuv>
     </tu>
     <tu>
