@@ -600,8 +600,8 @@
       <tuv lang="en">
         <seg>Icon resources of any size supported by the operating system may be extracted from executable files.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T191434Z" creationid="user" creationdate="20221226T191434Z">
-        <seg>Icon middelen van alle grootte die ondersteund worden door het OS kunnen gewonnen worden van executable bestanden.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T191534Z" creationid="user" creationdate="20221226T191434Z">
+        <seg>Icon bronen van alle grootte die ondersteund worden door het OS kunnen gewonnen worden van executable bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1218,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221214T182906Z" creationid="user" creationdate="20221214T182906Z">
         <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When multiple sized icon resources exist within an icon group, the most appropriate size is used.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T191647Z" creationid="user" creationdate="20221226T191527Z">
+        <seg>wanneer meerdere grootte icon bronnen bestaan binnenin een groep van icon, de meest geschikte grootte wordt gebruikt.</seg>
       </tuv>
     </tu>
     <tu>
