@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates a COM object.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T123350Z" creationid="user" creationdate="20221226T123350Z">
+        <seg>Maakt een COM object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates a SAFEARRAY for use with COM.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T122655Z" creationid="user" creationdate="20221226T122655Z">
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194330Z" creationid="user" creationdate="20221220T194330Z">
         <seg>Omschrijving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables or disables notification of COM errors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T123654Z" creationid="user" creationdate="20221226T123654Z">
+        <seg>Activeert of de-activeert van foutmeldingen over COM.</seg>
       </tuv>
     </tu>
     <tu>
