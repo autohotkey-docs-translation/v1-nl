@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interactive debugging features (line by line execution etc.).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135710Z" creationid="user" creationdate="20221226T135710Z">
+        <seg>interactief debugging eigenschappen (lijn na lijn uitvoering etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyboard and mouse:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204438Z" creationid="user" creationdate="20221215T204438Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204412Z" creationid="user" creationdate="20221215T204412Z">
         <seg>Objecten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135453Z" creationid="user" creationdate="20221226T135453Z">
+        <seg>Andere</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221214T182906Z" creationid="user" creationdate="20221214T182906Z">
         <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows can be identified by the name or path of the process (EXE file) which owns them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135559Z" creationid="user" creationdate="20221226T135559Z">
+        <seg>Windows kan geïdentificeerd worden door de naam van het pad of het process (EXE file) die bij hem hoort.</seg>
       </tuv>
     </tu>
     <tu>
