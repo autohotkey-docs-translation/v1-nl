@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calls a function during evaluation of a regex pattern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131911Z" creationid="user" creationdate="20221226T131911Z">
+        <seg>Roept een functie gedurende de evaluatie van een regex patroon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes which key is used to mask Win or Alt keyup events.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T120356Z" creationid="user" creationdate="20221226T120356Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151249Z" creationid="Ragnar-F" creationdate="20221205T151249Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New "local library" and &lt;c0&gt;#Include &lt;LibName&gt;&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T132057Z" creationid="user" creationdate="20221226T132057Z">
+        <seg>Nieuw "lokale bibliotheek" en &lt;c0&gt;#Include &lt;LibName&gt;&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
