@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to the user library in &lt;c0&gt;%A_MyDocuments%\AutoHotkey\Lib&lt;/c0&gt; and standard library in the AutoHotkey directory, functions may be auto-included from the "local library" which resides in &lt;c1&gt;%A_ScriptDir%\Lib&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T142119Z" creationid="user" creationdate="20221226T142119Z">
+        <seg>In aanvulling tot de gebruikers-bibliotheek in &lt;c0&gt;%A_MyDocuments%\AutoHotkey\Lib&lt;/c0&gt; en de standaard bibliotheek in de AutoHotkey map, functiies kunnen automatisch toegevoegd worden van de "local library" die zich bevindt in &lt;c1&gt;%A_ScriptDir%\Lib&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, many of AutoHotkey's enhancements to the AutoIt v2 command set, as well as the Window Spy and the old script compiler, were adapted directly from the AutoIt v3 source code.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205530Z" creationid="user" creationdate="20221215T205530Z">
