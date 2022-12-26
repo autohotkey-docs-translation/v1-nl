@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieves a COM object's type information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T122548Z" creationid="user" creationdate="20221226T122548Z">
+        <seg>Krijgt de informatie van het type van het COM-object terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieves a registered COM object.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T121816Z" creationid="user" creationdate="20221226T121816Z">
