@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Includes a script file from a function library folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T120848Z" creationid="user" creationdate="20221226T120848Z">
+        <seg>Voegt een script bestand vanuit een functie-bibliotheek map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index.hhk</seg>
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151238Z" creationid="Ragnar-F" creationdate="20221205T151238Z">
