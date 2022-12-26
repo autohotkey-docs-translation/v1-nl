@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Improvements to Icon Support</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T190945Z" creationid="user" creationdate="20221226T190945Z">
+        <seg>Verbeteringen aan het Icon </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In ANSI builds it is not defined, so is effectively &lt;i1&gt;false&lt;/i1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T134124Z" creationid="user" creationdate="20221226T134124Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T195857Z" creationid="user" creationdate="20221220T195857Z">
         <seg>Unicode karakters kunnen direct gebruikt worden in Unicode builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unusual Sizes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T191035Z" creationid="user" creationdate="20221226T191035Z">
+        <seg>Uitzonderlijke grootte</seg>
       </tuv>
     </tu>
     <tu>
