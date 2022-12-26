@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; can be used to set the default encoding, which can be overridden for FileRead and FileAppend as follows:</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T185533Z" creationid="user" creationdate="20221226T185533Z">
-        <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; kan gebruikt worden om de standaard codering ien te stellencan be used to set the default encoding, which can be overridden for FileRead and FileAppend as follows:</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T185730Z" creationid="user" creationdate="20221226T185533Z">
+        <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; kan gebruikt worden om de standaard codering in te stellen, wat dan kan overschreven worden voor FileRead and FileAppend zoals volgt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1178,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221214T182906Z" creationid="user" creationdate="20221214T182906Z">
         <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;i0&gt;nnn&lt;/i0&gt; must be a numeric &lt;a1&gt;code page identifier&lt;/a1&gt;, &lt;i2&gt;Encoding&lt;/i2&gt; follows the same format as &lt;a3&gt;FileEncoding&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T190002Z" creationid="user" creationdate="20221226T190002Z">
+        <seg>&lt;i0&gt;nnn&lt;/i0&gt; moet een een nummer &lt;a1&gt;code page identifier&lt;/a1&gt; zijn, &lt;i2&gt;Encoding&lt;/i2&gt; volgt hetzelfde patroon, formaat, als &lt;a3&gt;FileEncoding&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
