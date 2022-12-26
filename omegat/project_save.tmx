@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Font quality&lt;/a0&gt; can be controlled by the Font sub-command.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T184751Z" creationid="user" creationdate="20221226T184751Z">
+        <seg>&lt;a0&gt;Font quality&lt;/a0&gt; kan gecontroleerd worden door het sub-command Font.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Gui, New&lt;/a0&gt; creates a new anonymous GUI.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T183310Z" creationid="user" creationdate="20221226T183310Z">
