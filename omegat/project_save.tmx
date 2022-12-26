@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;#Include &lt;LibName&gt;&lt;/a0&gt; explicitly includes a library file which may be located in any one of the function libraries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T142506Z" creationid="user" creationdate="20221226T142506Z">
+        <seg>&lt;a0&gt;#Include &lt;LibName&gt;&lt;/a0&gt; vermeldt expliciet een bibliotheek bestand die zich kan te bevinden in een van de functie bibliotheken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Improvements&lt;/a0&gt; were made to the way parameters are parsed.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201359Z" creationid="user" creationdate="20221220T195734Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140443Z" creationid="user" creationdate="20221226T140443Z">
         <seg>Bijvoorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see &lt;a2&gt;Libraries of Functions&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T142151Z" creationid="user" creationdate="20221226T142151Z">
+        <seg>Voor meer informatie, zie&lt;a2&gt;Libraries of Functions&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
