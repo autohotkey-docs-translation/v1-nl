@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt;See also:&lt;/b0&gt; &lt;a1&gt;Script Compatibility&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T190037Z" creationid="user" creationdate="20221226T190037Z">
+        <seg>&lt;b0&gt;Zie ook:&lt;/b0&gt; &lt;a1&gt;Script Compatibility&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i0&gt;See also:&lt;/i0&gt; &lt;a1&gt;Text Encodings&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194839Z" creationid="user" creationdate="20221220T194839Z">
@@ -1162,6 +1170,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204342Z" creationid="user" creationdate="20221215T204342Z">
         <seg>Variabelen en expressies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variadic Functions and Function-Calls</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T190056Z" creationid="user" creationdate="20221226T190056Z">
+        <seg>Variadic Functions and Function-aanroepen</seg>
       </tuv>
     </tu>
     <tu>
