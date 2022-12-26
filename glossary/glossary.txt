@@ -5,3 +5,4 @@ Determines	Bepaalt
 Contains	Bevat
 default	standaard
 encoding	codering
+enhancements	verbeteringen
