@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides object-oriented file I/O.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T130822Z" creationid="user" creationdate="20221226T130822Z">
+        <seg>Biedt een object georienteerd object-oriented file I/O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides structured exception handling.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194146Z" creationid="user" creationdate="20221220T194146Z">
