@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Icon resources of any size supported by the operating system may be extracted from executable files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T191434Z" creationid="user" creationdate="20221226T191434Z">
+        <seg>Icon middelen van alle grootte die ondersteund worden door het OS kunnen gewonnen worden van executable bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Improvements to Icon Support</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T190945Z" creationid="user" creationdate="20221226T190945Z">
