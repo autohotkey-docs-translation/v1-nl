@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows items in a collection to be enumerated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T133214Z" creationid="user" creationdate="20221226T133214Z">
+        <seg>laat items in een collectie toe om samen te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows registry commands in a 32-bit script to access the 64-bit registry view and vice versa.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T200609Z" creationid="user" creationdate="20221220T200609Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194047Z" creationid="user" creationdate="20221220T194047Z">
         <seg>Van toepassing op alle types van loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Associative arrays which can be extended with other functionality.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T132944Z" creationid="user" creationdate="20221226T132944Z">
+        <seg>Associative arrays die kunnen uitgebreid worden met andere functionaliteiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T191012Z" creationid="user" creationdate="20221220T191012Z">
         <seg>Autohotkey_L nieuwe functionaliteiten | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Behaviour and usage of objects in general.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T132819Z" creationid="user" creationdate="20221226T132819Z">
+        <seg>Gedrag en gebruik van objecten in het algemeen.</seg>
       </tuv>
     </tu>
     <tu>
