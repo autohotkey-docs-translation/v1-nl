@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables or disables warnings for selected conditions that may be indicative of developer errors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T121424Z" creationid="user" creationdate="20221226T121424Z">
+        <seg>Activeert of de-activeert meldingen voor geselecteerde bepalingen die de ontwikkelaar op fouten wijzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Feature</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194353Z" creationid="user" creationdate="20221220T194353Z">
