@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A GUI's owner can be any arbitrary window:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T184132Z" creationid="user" creationdate="20221226T184132Z">
+        <seg>Een A GUI's eigenaar kan iedere willekeurige schermen zijn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of enhancements have been made to the &lt;a0&gt;Gui&lt;/a0&gt; command and related:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T183114Z" creationid="user" creationdate="20221226T183114Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T132057Z" creationid="user" creationdate="20221226T132057Z">
         <seg>Nieuw "lokale bibliotheek" en &lt;c0&gt;#Include &lt;LibName&gt;&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New GUI options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T183831Z" creationid="user" creationdate="20221226T183831Z">
+        <seg>Nieuwe GUI opties:</seg>
       </tuv>
     </tu>
     <tu>
