@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, the following commands now set &lt;a0&gt;A_LastError&lt;/a0&gt; to assist with debugging:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140652Z" creationid="user" creationdate="20221226T140652Z">
+        <seg>bovendien, de volgende commands gebruiken nu &lt;a0&gt;A_LastError&lt;/a0&gt; bij het assisteren met debugging:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows items in a collection to be enumerated.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T133214Z" creationid="user" creationdate="20221226T133214Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205831Z" creationid="user" creationdate="20221215T205831Z">
         <seg>Als laatste, AutoHotkey zou niet zijn wat het vandaag is zonder&lt;a0&gt;deze individuele personen&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140443Z" creationid="user" creationdate="20221226T140443Z">
+        <seg>Bijvoorbeeld:</seg>
       </tuv>
     </tu>
     <tu>
