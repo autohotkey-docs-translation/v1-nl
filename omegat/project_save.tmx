@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieves a &lt;a0&gt;reference&lt;/a0&gt; to a function.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T130910Z" creationid="user" creationdate="20221226T130910Z">
+        <seg>Krijgt een &lt;a0&gt;reference&lt;/a0&gt;naar een functie terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieves a COM object's type information.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T122548Z" creationid="user" creationdate="20221226T122548Z">
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieves the name or text, virtual key code or scan code of a key.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131040Z" creationid="user" creationdate="20221226T131040Z">
+        <seg>Krijgt de naam of de tekst, virtuele knop code of scan code van de knop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieves the value or pointer stored in a COM wrapper object.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T130322Z" creationid="user" creationdate="20221226T130322Z">
@@ -530,6 +546,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T125841Z" creationid="user" creationdate="20221226T125841Z">
         <seg>Geeft een referentie naar een object verstrekt door een COM component terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
+        <seg>zoekt naar een opgeheven &lt;e0&gt;occurrence&lt;/e0&gt; of een string, van links naar rechts.</seg>
       </tuv>
     </tu>
     <tu>
