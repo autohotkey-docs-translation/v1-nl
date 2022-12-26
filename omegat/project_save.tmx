@@ -1174,14 +1174,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Variadic Functions and Function-Calls</seg>
-      </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T190056Z" creationid="user" creationdate="20221226T190056Z">
-        <seg>Variadic Functions and Function-aanroepen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Various enhancements to the Gui command and related.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135949Z" creationid="user" creationdate="20221226T135829Z">
