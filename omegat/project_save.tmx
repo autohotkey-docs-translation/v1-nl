@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains the default encoding for various commands; see &lt;a0&gt;FileEncoding&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T134352Z" creationid="user" creationdate="20221226T134352Z">
+        <seg>Bevat de standaard codering voor diverse commands; zie &lt;a0&gt;FileEncoding&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue a loop, even from within any number of nested loops.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T193324Z" creationid="user" creationdate="20221220T193324Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T202619Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
         <seg>dIE=edge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In ANSI builds it is not defined, so is effectively &lt;i1&gt;false&lt;/i1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T134124Z" creationid="user" creationdate="20221226T134124Z">
+        <seg>In ANSI builds is dit niet gedefinieerd, dus effectief &lt;i1&gt;onwaar&lt;/i1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
