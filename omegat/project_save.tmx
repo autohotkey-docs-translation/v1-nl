@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Function Libraries</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T140723Z" creationid="user" creationdate="20221226T140723Z">
+        <seg>Functies Bibiotheek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Functions</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204350Z" creationid="user" creationdate="20221215T204350Z">
