@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains 1 (true) if the OS is 64-bit or 0 (false) if it is 32-bit.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T133807Z" creationid="user" creationdate="20221226T133807Z">
+        <seg>Bevat 1 (waar) als het OS 64-bit is of 0 (onwaar) als het een 32-bit is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue a loop, even from within any number of nested loops.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T193324Z" creationid="user" creationdate="20221220T193324Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T202619Z" creationid="Ragnar-F" creationdate="20221205T151128Z">
         <seg>dIE=edge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Unicode builds, this variable contains 1 (&lt;i0&gt;true&lt;/i0&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T134007Z" creationid="user" creationdate="20221226T134007Z">
+        <seg>In Unicode builds, deze variabele bevat 1 (&lt;i0&gt;waar&lt;/i0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +794,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T195857Z" creationid="user" creationdate="20221220T195857Z">
         <seg>Unicode karakters kunnen direct gebruikt worden in Unicode builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T133644Z" creationid="user" creationdate="20221226T133644Z">
+        <seg>Variabelen</seg>
       </tuv>
     </tu>
     <tu>
