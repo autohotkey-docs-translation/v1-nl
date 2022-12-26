@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;GuiControlGet, &lt;e1&gt;OutputVar&lt;/e1&gt;, Name&lt;/a0&gt; gets the name of the variable associated with a GUI control.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T184449Z" creationid="user" creationdate="20221226T184449Z">
+        <seg>&lt;a0&gt;GuiControlGet, &lt;e1&gt;OutputVar&lt;/e1&gt;, Name&lt;/a0&gt; geeft de naam van de variabele geassocieerd met de GUI control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Improvements&lt;/a0&gt; were made to the way parameters are parsed.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201359Z" creationid="user" creationdate="20221220T195734Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135833Z" creationid="user" creationdate="20221226T135710Z">
         <seg>Interactief debugging eigenschappen (lijn na lijn uitvoering etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard accelerators such as &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;O&lt;/k1&gt; are supported automatically when used in &lt;a2&gt;Gui menus&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T184705Z" creationid="user" creationdate="20221226T184705Z">
+        <seg>Toetsenbordversnellers zoals &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;O&lt;/k1&gt; zijn automatisch ondersteund bij het gebruik van &lt;a2&gt;Gui menus&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
