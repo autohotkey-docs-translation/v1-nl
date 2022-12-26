@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar to &lt;a0&gt;#IfWinActive&lt;/a0&gt;, but for arbitrary expressions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T115332Z" creationid="user" creationdate="20221226T115332Z">
+        <seg>Gelijkaardig aan &lt;a0&gt;#IfWinActive&lt;/a0&gt;, maar voor arbitraire expressies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So thanks to Jon and the other AutoIt authors for those as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205613Z" creationid="user" creationdate="20221215T205613Z">
