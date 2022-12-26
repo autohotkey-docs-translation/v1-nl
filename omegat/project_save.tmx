@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Variadic functions&lt;/a0&gt; can receive a variable number of parameters via an array, while &lt;a1&gt;variadic function-calls&lt;/a1&gt; can be used to pass a variable number of parameters to a function.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T190856Z" creationid="user" creationdate="20221226T190856Z">
+        <seg>&lt;a0&gt;Variadic functions&lt;/a0&gt; kunnen een variabel aantal parameters via een array ontvangen, terwijl &lt;a1&gt;variadic function-calls&lt;/a1&gt; kunnen gebruikt worden om een aantal parameters door te geven aan een functie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; can be used to set the default encoding, which can be overridden for FileRead and FileAppend as follows:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T185730Z" creationid="user" creationdate="20221226T185533Z">
@@ -864,8 +872,8 @@
       <tuv lang="en">
         <seg>Retrieves a &lt;a0&gt;reference&lt;/a0&gt; to a function.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T130910Z" creationid="user" creationdate="20221226T130910Z">
-        <seg>Krijgt een &lt;a0&gt;reference&lt;/a0&gt;naar een functie terug.</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T190621Z" creationid="user" creationdate="20221226T130910Z">
+        <seg>Krijgt een &lt;a0&gt;reference&lt;/a0&gt; naar een functie terug.</seg>
       </tuv>
     </tu>
     <tu>
