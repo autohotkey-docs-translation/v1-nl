@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Equivalent to &lt;i0&gt;Int&lt;/i0&gt; in 32-bit builds and &lt;i1&gt;Int64&lt;/i1&gt; in 64-bit builds.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135208Z" creationid="user" creationdate="20221226T135208Z">
+        <seg>Equivalent van&lt;i0&gt;Int&lt;/i0&gt; in 32-bit builds en &lt;i1&gt;Int64&lt;/i1&gt; in 64-bit builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Feature</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194353Z" creationid="user" creationdate="20221220T194353Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204542Z" creationid="user" creationdate="20221215T204542Z">
         <seg>Hotstrings en auto-replace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to deal with Unicode in DllCall(), etc.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135356Z" creationid="user" creationdate="20221226T135318Z">
+        <seg>Hoe je moet omgaan metUnicode in DllCall(), etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Supported by &lt;a2&gt;DllCall()&lt;/a2&gt;, &lt;a3&gt;NumPut()&lt;/a3&gt; and &lt;a4&gt;NumGet()&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135235Z" creationid="user" creationdate="20221226T135235Z">
+        <seg>Ondersteund door &lt;a2&gt;DllCall()&lt;/a2&gt;, &lt;a3&gt;NumPut()&lt;/a3&gt; and &lt;a4&gt;NumGet()&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supported only by &lt;a0&gt;DllCall()&lt;/a0&gt;; see &lt;a1&gt;Script Compatibility&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135255Z" creationid="user" creationdate="20221226T135255Z">
+        <seg>Ondersteunt enkel door &lt;a0&gt;DllCall()&lt;/a0&gt;; see &lt;a1&gt;Script Compatibility&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Supports Windows 7 and Windows 8; see &lt;a0&gt;A_OSVersion&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T134438Z" creationid="user" creationdate="20221226T134438Z">
@@ -858,6 +890,22 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T195857Z" creationid="user" creationdate="20221220T195857Z">
         <seg>Unicode karakters kunnen direct gebruikt worden in Unicode builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Unicode in script files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135359Z" creationid="user" creationdate="20221226T135337Z">
+        <seg>Het gebruik van Unicode in script bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Unicode with SendInput.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T135423Z" creationid="user" creationdate="20221226T135423Z">
+        <seg>Unicode gebruiken met SendInput.</seg>
       </tuv>
     </tu>
     <tu>
