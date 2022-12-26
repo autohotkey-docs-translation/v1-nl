@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes which key is used to mask Win or Alt keyup events.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T120356Z" creationid="user" creationdate="20221226T120356Z">
+        <seg>Verandert welke knop gebruikt wordt om hetgeen de Windows-knop of de Alt-knop normaal doet te maskeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command and function list</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205956Z" creationid="user" creationdate="20221215T205956Z">
