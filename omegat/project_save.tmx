@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the maximum time that may be spent evaluating a single #If expression.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T115540Z" creationid="user" creationdate="20221226T115540Z">
+        <seg>Zet de maximum tijd die mogelijk is om één enkele #If expression te evalueren / beoordelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similar to &lt;a0&gt;#IfWinActive&lt;/a0&gt;, but for arbitrary expressions.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T115332Z" creationid="user" creationdate="20221226T115332Z">
