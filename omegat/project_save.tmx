@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Gui, New&lt;/a0&gt; creates a new anonymous GUI.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T183310Z" creationid="user" creationdate="20221226T183310Z">
+        <seg>&lt;a0&gt;Gui, New&lt;/a0&gt; maakt een nieuwe anonieme GUI aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Improvements&lt;/a0&gt; were made to the way parameters are parsed.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201359Z" creationid="user" creationdate="20221220T195734Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T191807Z" creationid="user" creationdate="20221220T191807Z">
         <seg>&lt;s0&gt;Opgelet:&lt;/s0&gt; Dit document is wat verwaarloosd in recente jaren en kan niet helemaal up-to-date zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;a0&gt;name or HWND&lt;/a0&gt; can be used instead of a number between 1 and 99 when referring to a GUI.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T183223Z" creationid="user" creationdate="20221226T183223Z">
+        <seg>Een &lt;a0&gt;name or HWND&lt;/a0&gt; kan gebruikt worden in plaats van een nummer tussen 1 en 99 wanneer gerefereerd wordt naar een GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T200609Z" creationid="user" creationdate="20221220T200609Z">
         <seg>Laat register opdrachten in een 32-bit script toe verbinding te maken met het 64-bit register view en vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any number of named or anonymous GUIs can be created.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T183806Z" creationid="user" creationdate="20221226T183806Z">
+        <seg>Gelijk welke GUI op basis van een nummer van naam of een anonieme GUIs kan gemaakt worden.</seg>
       </tuv>
     </tu>
     <tu>
