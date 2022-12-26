@@ -238,6 +238,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Determines whether a ByRef parameter was supplied with a variable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131342Z" creationid="user" creationdate="20221226T131342Z">
+        <seg>Bepaalt of een ByRef parameter was geleverd met een variabele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Determines whether a value is an object.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T131439Z" creationid="user" creationdate="20221226T131439Z">
+        <seg>Bepaalt of een variabele een object is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables or disables notification of COM errors.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T123654Z" creationid="user" creationdate="20221226T123654Z">
