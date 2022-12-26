@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the following sets the tray icon to the default icon used by ahk files:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T192308Z" creationid="user" creationdate="20221226T192308Z">
+        <seg>Bijvoorbeeld, het volgende zet het systeempictogram naar het standaard icoon die gebruikt wordt door ahk-bestanden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140443Z" creationid="user" creationdate="20221226T140443Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T151249Z" creationid="Ragnar-F" creationdate="20221205T151249Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negative icon numbers may be used to identify a group icon resource within an executable file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T192051Z" creationid="user" creationdate="20221226T192051Z">
+        <seg>Negatieve icon nummers kunnen gebruikt worden om een groep icon te identificeren binnenin een executable bestand.</seg>
       </tuv>
     </tu>
     <tu>
