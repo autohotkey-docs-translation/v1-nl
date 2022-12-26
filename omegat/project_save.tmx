@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates an exception object for &lt;a0&gt;Throw&lt;/a0&gt; (also provides limited access to the call stack).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T130523Z" creationid="user" creationdate="20221226T130523Z">
+        <seg>maak een uitzondering's object aan voor &lt;a0&gt;Throw&lt;/a0&gt; (biedt ook een beperkte toegang tot de call stack).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194330Z" creationid="user" creationdate="20221220T194330Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T201006Z" creationid="user" creationdate="20221220T201006Z">
         <seg>Haalt het volledige path en naam van het process die is toegekend aan een bepaald scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieves the value or pointer stored in a COM wrapper object.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T130322Z" creationid="user" creationdate="20221226T130322Z">
+        <seg>krijgt de waarde of de pointer opgeslagen in een COM wrapper object.</seg>
       </tuv>
     </tu>
     <tu>
