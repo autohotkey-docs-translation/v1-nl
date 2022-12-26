@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;ActiveX controls&lt;/a0&gt; such as the Internet Explorer WebBrowser control are supported.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T184349Z" creationid="user" creationdate="20221226T184349Z">
+        <seg>&lt;a0&gt;ActiveX controls&lt;/a0&gt; zoals de Internet Explorer Webbrowser control is ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Gui, New&lt;/a0&gt; creates a new anonymous GUI.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T183310Z" creationid="user" creationdate="20221226T183310Z">
@@ -120,8 +128,8 @@
       <tuv lang="en">
         <seg>A GUI's owner can be any arbitrary window:</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T184132Z" creationid="user" creationdate="20221226T184132Z">
-        <seg>Een A GUI's eigenaar kan iedere willekeurige schermen zijn:</seg>
+      <tuv lang="nl" changeid="user" changedate="20221226T184147Z" creationid="user" creationdate="20221226T184132Z">
+        <seg>Een GUI's eigenaar kan iedere willekeurige scherm zijn:</seg>
       </tuv>
     </tu>
     <tu>
