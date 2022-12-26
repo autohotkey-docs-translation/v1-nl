@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; can be used to set the default encoding, which can be overridden for FileRead and FileAppend as follows:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221226T185533Z" creationid="user" creationdate="20221226T185533Z">
+        <seg>&lt;a4&gt;FileEncoding&lt;/a4&gt; kan gebruikt worden om de standaard codering ien te stellencan be used to set the default encoding, which can be overridden for FileRead and FileAppend as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i0&gt;See also:&lt;/i0&gt; &lt;a1&gt;Text Encodings&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194839Z" creationid="user" creationdate="20221220T194839Z">
