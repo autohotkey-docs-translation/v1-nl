@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Learn details about creating, editing and running a script, the tray icon, the main window, command line usage, portability and installer options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221227T102341Z" creationid="user" creationdate="20221227T102341Z">
+        <seg>Leer details over het aanmaken, aanpassen en starten van een script, het systeemicon, het algemeen scherm, gebruik van de command lijn, de mobiliteit en de opties van de installer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn the new features added in the AutoHotkey_L branch of AutoHotkey development, now simply known as "AutoHotkey 1.1".</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T191343Z" creationid="user" creationdate="20221220T191156Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135423Z" creationid="user" creationdate="20221226T135423Z">
         <seg>Unicode gebruiken met SendInput.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Program | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20221227T101939Z" creationid="user" creationdate="20221227T101939Z">
+        <seg>Hoe moet je het programma gebruiken | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
