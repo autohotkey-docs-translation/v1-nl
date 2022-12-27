@@ -6,3 +6,4 @@ Contains	Bevat
 default	standaard
 encoding	codering
 enhancements	verbeteringen
+tray icon	systeemicon
