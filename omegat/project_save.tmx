@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script is simply a plain text file with the &lt;c0&gt;.ahk&lt;/c0&gt; filename extension containing instructions for the program, like a configuration file, but much more powerful.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230103T223320Z" creationid="user" creationdate="20230103T223320Z">
+        <seg>Een script is een platte tekst-bestand met de &lt;c0&gt;.ahk&lt;/c0&gt; bestandsextensie die de instucties bevat voor het programma, zoals een configuratie-bestand, maar dan krachtiger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A special thanks to Jonathan Bennett, whose generosity in releasing AutoIt v2 as free software in 1999 served as an inspiration and time-saver for myself and many others worldwide.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T202046Z" creationid="user" creationdate="20221213T202046Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="nl" changeid="Ragnar-F" changedate="20221205T150744Z" creationid="Ragnar-F" creationdate="20221205T150744Z">
         <seg>AutoHotkey Hulp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey doesn't do anything on its own; it needs a script to tell it what to do.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230103T223007Z" creationid="user" creationdate="20230103T223007Z">
+        <seg>AutoHotkey doet niets uit zichzrlf , het heeft een script nodig om te zeggen wat het moet doen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1234,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135423Z" creationid="user" creationdate="20221226T135423Z">
         <seg>Unicode gebruiken met SendInput.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Program</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230103T222923Z" creationid="user" creationdate="20230103T222923Z">
+        <seg>Het programma gebruiken</seg>
       </tuv>
     </tu>
     <tu>
