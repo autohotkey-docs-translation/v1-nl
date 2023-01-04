@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default this will open Notepad, but that can be changed by writing to the registry as shown &lt;a4&gt;here&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T140207Z" creationid="user" creationdate="20230104T140207Z">
+        <seg>Standaard zal deze opengaan in kladblok maar dat kan veranderd worden door naar het register te schrijven zoals &lt;a4&gt;here&lt;/a4&gt;. beschreven staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calls a function during evaluation of a regex pattern.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131911Z" creationid="user" creationdate="20221226T131911Z">
@@ -930,6 +938,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204412Z" creationid="user" creationdate="20221215T204412Z">
         <seg>Objecten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, you can always open your text editor first and then open the script as you would any other text file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T140411Z" creationid="user" creationdate="20230104T140411Z">
+        <seg>Je kan natuurlijk ook altijd eerst de text editor openen en daarna het script openen zoals je dat zou doen bij elk ander tekstbestand.</seg>
       </tuv>
     </tu>
     <tu>
