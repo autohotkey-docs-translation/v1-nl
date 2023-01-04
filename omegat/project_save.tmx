@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a0&gt;Scripting Language&lt;/a0&gt; for details about how to write a script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T135454Z" creationid="user" creationdate="20230104T135454Z">
+        <seg>Zie &lt;a0&gt;Scripting Language&lt;/a0&gt; voor details over hoe je een script moet schrijven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See ComObj functions above.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T133622Z" creationid="user" creationdate="20221226T133622Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T124121Z" creationid="user" creationdate="20221226T124121Z">
         <seg>Pakt een COM object in/uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then type a name for the script (taking care not to erase the &lt;c2&gt;.ahk&lt;/c2&gt; extension if it is visible).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T135310Z" creationid="user" creationdate="20230104T135301Z">
+        <seg>Nu kan je de naam van het script typen (zorg ervoor dat je de extensie &lt;c2&gt;.ahk&lt;/c2&gt; niet verwijderd als het zichtbaar is).</seg>
       </tuv>
     </tu>
     <tu>
