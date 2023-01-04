@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click a script file (or shortcut to a script file) in Explorer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145322Z" creationid="user" creationdate="20230104T145322Z">
+        <seg>Dubbel-klik een script-bestand (of snelkoppeling naar een script-bestand) in Verkenner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit a Script</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132722Z" creationid="user" creationdate="20230104T132722Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135559Z" creationid="user" creationdate="20221226T135559Z">
         <seg>Windows kan geïdentificeerd worden door de naam van het pad of het process (EXE file) die bij hem hoort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With AutoHotkey installed, there are several ways to run a script:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145215Z" creationid="user" creationdate="20230104T145215Z">
+        <seg>Wanneer AutoHotkey is geinstalleerd, zijn er enkele manieren om een script te starten:</seg>
       </tuv>
     </tu>
     <tu>
