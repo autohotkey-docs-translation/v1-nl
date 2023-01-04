@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A running script can usually be reloaded via its &lt;a1&gt;tray menu&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T141102Z" creationid="user" creationdate="20230104T141102Z">
+        <seg>Een lopend script kan normaal gezien gereload worden via zijn  &lt;a1&gt;systeemmenu&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script can do as little as performing a single action and then exiting, but most scripts define a number of &lt;a1&gt;hotkeys&lt;/a1&gt;, with each hotkey followed by one or more actions to take when the hotkey is pressed.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T131834Z" creationid="user" creationdate="20230104T131834Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140652Z" creationid="user" creationdate="20221226T140652Z">
         <seg>bovendien, de volgende commands gebruiken nu &lt;a0&gt;A_LastError&lt;/a0&gt; bij het assisteren met debugging:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After editing a script, you must run or &lt;a0&gt;reload&lt;/a0&gt; the script for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T140946Z" creationid="user" creationdate="20230104T140946Z">
+        <seg>Na het bewerken van een script moet je nog run of  &lt;a0&gt;reload&lt;/a0&gt; de script doen vooraleer de aanpassingen effect hebben.</seg>
       </tuv>
     </tu>
     <tu>
