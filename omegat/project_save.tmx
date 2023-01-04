@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tip:&lt;/s0&gt; If your browser supports it, you can download any code block (such as the one above) as a script file by clicking the button which appears in the top-right of the code block when you hover your mouse over it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132559Z" creationid="user" creationdate="20230104T132559Z">
+        <seg>&lt;s0&gt;Tip:&lt;/s0&gt; als je browser het ondersteunt, kan je elke blok code (zoals de degene hierboven), downloaden als een script-bestand door op de knop te klikken die in de rechterbovenhoek tevoorschijn komt wanneer je erover beweegt met je muis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;a0&gt;name or HWND&lt;/a0&gt; can be used instead of a number between 1 and 99 when referring to a GUI.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T183223Z" creationid="user" creationdate="20221226T183223Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204153Z" creationid="user" creationdate="20221215T204153Z">
         <seg>Hoe schrijf je een scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if WinExist("Untitled - Notepad")</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132118Z" creationid="user" creationdate="20230104T132118Z">
+        <seg>if WinExist("Naamloos - Kladblok")</seg>
       </tuv>
     </tu>
     <tu>
