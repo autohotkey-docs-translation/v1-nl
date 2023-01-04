@@ -1024,8 +1024,8 @@
       <tuv lang="en">
         <seg>Provides object-oriented file I/O.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T130822Z" creationid="user" creationdate="20221226T130822Z">
-        <seg>Biedt een object georienteerd object-oriented file I/O.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T142653Z" creationid="user" creationdate="20221226T130822Z">
+        <seg>Biedt een object georienteerd bestand I/O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="en">
         <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
-        <seg>zoekt naar een opgeheven &lt;e0&gt;occurrence&lt;/e0&gt; of een string, van links naar rechts.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T142847Z" creationid="user" creationdate="20221226T131157Z">
+        <seg>Zoekt naar een opgeheven &lt;e0&gt;occurrence&lt;/e0&gt; of een string, van links naar rechts.</seg>
       </tuv>
     </tu>
     <tu>
