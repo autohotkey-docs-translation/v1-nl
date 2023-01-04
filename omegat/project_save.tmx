@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If AutoHotkey is pinned to the taskbar or Start menu on Windows 7 or later, recent or pinned scripts can be launched via the program's Jump List.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145841Z" creationid="user" creationdate="20230104T145841Z">
+        <seg>Als AutoHotkey is vastgepind aan de taakbalk of de Start menu van Windows 7 of later, recente of vastgepinde scripts kunnen gestart worden van de program's Jump List.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the script is already running, you can use the &lt;a1&gt;Edit&lt;/a1&gt; command or right-click the script's &lt;a2&gt;tray icon&lt;/a2&gt; and select &lt;s3&gt;Edit This Script&lt;/s3&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T140015Z" creationid="user" creationdate="20230104T140015Z">
@@ -922,6 +930,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204219Z" creationid="user" creationdate="20221215T204219Z">
         <seg>Allerlei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most scripts have an effect only while they are running.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145929Z" creationid="user" creationdate="20230104T145929Z">
+        <seg>De meeste scripts hebben enkel een effect terwijl ze lopen (actief zijn).</seg>
       </tuv>
     </tu>
     <tu>
