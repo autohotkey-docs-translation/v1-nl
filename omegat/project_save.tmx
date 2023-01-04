@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the script is already running, you can use the &lt;a1&gt;Edit&lt;/a1&gt; command or right-click the script's &lt;a2&gt;tray icon&lt;/a2&gt; and select &lt;s3&gt;Edit This Script&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T140015Z" creationid="user" creationdate="20230104T140015Z">
+        <seg>Als een script al loopt, kan je de &lt;a1&gt;Edit&lt;/a1&gt; opdracht gebruiken of klik rechts op het &lt;a2&gt;systeemicon&lt;/a2&gt; van het script en kies &lt;s3&gt;Edit This Script&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Improvements to Icon Support</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T190945Z" creationid="user" creationdate="20221226T190945Z">
