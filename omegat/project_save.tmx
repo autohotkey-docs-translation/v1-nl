@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Notepad (or a &lt;a0&gt;text editor&lt;/a0&gt; of your choice), save a file with the &lt;c1&gt;.ahk&lt;/c1&gt; filename extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133924Z" creationid="user" creationdate="20230104T133924Z">
+        <seg>In kladblok (of een &lt;a0&gt;text editor&lt;/a0&gt; naar keuze), sla een bestand op met de bestand extensie &lt;c1&gt;.ahk&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In Unicode builds, this variable contains 1 (&lt;i0&gt;true&lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T134007Z" creationid="user" creationdate="20221226T134007Z">
@@ -1078,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run with UI Access</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133530Z" creationid="user" creationdate="20230104T133530Z">
+        <seg>Start met UI Access</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135121Z" creationid="user" creationdate="20221226T135121Z">
         <seg>De unieke ID (HWND/handle) van de script's verborgen hoofdscherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are a couple of common ways to create a script file:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133742Z" creationid="user" creationdate="20230104T133742Z">
+        <seg>er zijn enkele gangbare manieren om een script bestand te maken:</seg>
       </tuv>
     </tu>
     <tu>
