@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After creating &lt;a0&gt;the default script&lt;/a0&gt;, launch AutoHotkey via the shortcut in the Start menu to run it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145637Z" creationid="user" creationdate="20230104T145637Z">
+        <seg>Nadat je &lt;a0&gt;de standaard script&lt;/a0&gt; hebt aangemaakt, start AutoHotkey via de snelkoppeling in het Start menu om het script te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After editing a script, you must run or &lt;a0&gt;reload&lt;/a0&gt; the script for the changes to take effect.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T140946Z" creationid="user" creationdate="20230104T140946Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T140207Z" creationid="user" creationdate="20230104T140207Z">
         <seg>Standaard zal deze opengaan in kladblok maar dat kan veranderd worden door naar het register te schrijven zoals &lt;a4&gt;here&lt;/a4&gt;. beschreven staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Call AutoHotkey.exe on the command line and pass the script's filename as a &lt;a0&gt;command-line parameter&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T145421Z" creationid="user" creationdate="20230104T145421Z">
+        <seg>Aanroep AutoHotkey.exe in de command line en geef de naam van het script als &lt;a0&gt;command-line parameter&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
