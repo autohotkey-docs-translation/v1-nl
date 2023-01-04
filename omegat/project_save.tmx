@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To open a script for editing, right-click on the script file and select &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T135633Z" creationid="user" creationdate="20230104T135627Z">
+        <seg>Om een script te bewerken, klik rechts op de bestandsnaam en kies &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tray Icon</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132831Z" creationid="user" creationdate="20230104T132831Z">
