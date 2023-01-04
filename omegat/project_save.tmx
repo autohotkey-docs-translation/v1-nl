@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>Creates an exception object for &lt;a0&gt;Throw&lt;/a0&gt; (also provides limited access to the call stack).</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T130523Z" creationid="user" creationdate="20221226T130523Z">
-        <seg>maak een uitzondering's object aan voor &lt;a0&gt;Throw&lt;/a0&gt; (biedt ook een beperkte toegang tot de call stack).</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T141955Z" creationid="user" creationdate="20221226T130523Z">
+        <seg>Maak een uitzondering's object aan voor &lt;a0&gt;Throw&lt;/a0&gt; (biedt ook een beperkte toegang tot de call stack).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@
       <tuv lang="en">
         <seg>Retrieves the value or pointer stored in a COM wrapper object.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T130322Z" creationid="user" creationdate="20221226T130322Z">
-        <seg>krijgt de waarde of de pointer opgeslagen in een COM wrapper object.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T141949Z" creationid="user" creationdate="20221226T130322Z">
+        <seg>Krijgt de waarde of de pointer opgeslagen in een COM wrapper object.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1170,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
         <seg>zoekt naar een opgeheven &lt;e0&gt;occurrence&lt;/e0&gt; of een string, van links naar rechts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;GUI Enhancements&lt;/a0&gt; below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T141943Z" creationid="user" creationdate="20230104T141829Z">
+        <seg>Zie &lt;a0&gt;GUI Verbeteringen&lt;/a0&gt; hieronder.</seg>
       </tuv>
     </tu>
     <tu>
