@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a Script</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132730Z" creationid="user" creationdate="20230104T132642Z">
+        <seg>Maak een Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates a COM object.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T123350Z" creationid="user" creationdate="20221226T123350Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131439Z" creationid="user" creationdate="20221226T131439Z">
         <seg>Bepaalt of een variabele een object is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit a Script</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132722Z" creationid="user" creationdate="20230104T132722Z">
+        <seg>Bewerk een Script</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Window</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133032Z" creationid="user" creationdate="20230104T133032Z">
+        <seg>Hoofdvenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many commands support using &lt;a0&gt;try&lt;/a0&gt;/&lt;a1&gt;catch&lt;/a1&gt; instead of ErrorLevel for error handling.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140431Z" creationid="user" creationdate="20221226T140431Z">
@@ -1014,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run a Script</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132802Z" creationid="user" creationdate="20230104T132802Z">
+        <seg>Start een Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T131157Z" creationid="user" creationdate="20221226T131157Z">
@@ -1126,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132623Z" creationid="user" creationdate="20230104T132623Z">
+        <seg>Inhoudstafel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text Encodings</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T185148Z" creationid="user" creationdate="20221226T185148Z">
@@ -1194,6 +1234,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T194319Z" creationid="user" creationdate="20221220T194319Z">
         <seg>Geeft een uitzondering terug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tray Icon</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T132831Z" creationid="user" creationdate="20230104T132831Z">
+        <seg>Systeem icoon</seg>
       </tuv>
     </tu>
     <tu>
