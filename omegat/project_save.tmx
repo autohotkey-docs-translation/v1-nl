@@ -1208,8 +1208,8 @@
       <tuv lang="en">
         <seg>Set lower-case or upper-case hexadecimal format.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221220T200209Z" creationid="user" creationdate="20221220T200209Z">
-        <seg>zet tekst in kleine- of drukletters en dit in hexadecimaal formaat.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T142119Z" creationid="user" creationdate="20221220T200209Z">
+        <seg>Zet tekst in kleine- of drukletters en dit in hexadecimaal formaat.</seg>
       </tuv>
     </tu>
     <tu>
