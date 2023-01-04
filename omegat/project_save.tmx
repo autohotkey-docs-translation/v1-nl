@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installer Options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133512Z" creationid="user" creationdate="20230104T133512Z">
+        <seg>Instaleer Opties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interactive debugging</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T204425Z" creationid="user" creationdate="20221215T204425Z">
