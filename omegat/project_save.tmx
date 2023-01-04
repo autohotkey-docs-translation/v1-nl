@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts are also forced to exit when Windows shuts down.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T150058Z" creationid="user" creationdate="20230104T150058Z">
+        <seg>Scripts stoppen ook wanneer Windows wordt afgesloten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T142847Z" creationid="user" creationdate="20221226T131157Z">
@@ -1422,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To configure a script to start automatically after the user logs in, the easiest way is to place a shortcut to the script file in the &lt;a2&gt;Startup&lt;/a2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T150324Z" creationid="user" creationdate="20230104T150324Z">
+        <seg>De gemakkelijkste manier om een script te configureren zodat het automatisch opstart wanneer een gebruiker inlogt, is om een snelkoppelng van het script in de &lt;a2&gt;Startup&lt;/a2&gt; map te zetten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To open a script for editing, right-click on the script file and select &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T135633Z" creationid="user" creationdate="20230104T135627Z">
@@ -1474,6 +1490,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T191035Z" creationid="user" creationdate="20221226T191035Z">
         <seg>Uitzonderlijke grootte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;a0&gt;tray menu&lt;/a0&gt; or the &lt;a1&gt;ExitApp&lt;/a1&gt; command to exit a script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T150024Z" creationid="user" creationdate="20230104T150024Z">
+        <seg>Gebruik de &lt;a0&gt;systeemmenu&lt;/a0&gt; of &lt;a1&gt;ExitApp&lt;/a1&gt; opdracht om een script te stoppen.</seg>
       </tuv>
     </tu>
     <tu>
