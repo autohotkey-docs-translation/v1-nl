@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command Line Usage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133107Z" creationid="user" creationdate="20230104T133107Z">
+        <seg>Gebruik van Command Line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command and function list</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221215T205956Z" creationid="user" creationdate="20221215T205956Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132722Z" creationid="user" creationdate="20230104T132722Z">
         <seg>Bewerk een Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embedded Scripts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133045Z" creationid="user" creationdate="20230104T133045Z">
+        <seg>Ingesloten Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +906,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T200757Z" creationid="user" creationdate="20221220T200757Z">
         <seg>Voert code pagina of HTML transformaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portability of AutoHotkey.exe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T133342Z" creationid="user" creationdate="20230104T133342Z">
+        <seg>Meeneembaarheid van AutoHotkey.exe</seg>
       </tuv>
     </tu>
     <tu>
