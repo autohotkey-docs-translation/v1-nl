@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be sure to save the file as UTF-8 with BOM if it will contain non-ASCII characters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T134746Z" creationid="user" creationdate="20230104T134746Z">
+        <seg>Zorg ervoor om het bestand op te slaan als een UTF-8 met BOM als het geen non-ASCII karakters bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Behaviour and usage of objects in general.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T132819Z" creationid="user" creationdate="20221226T132819Z">
