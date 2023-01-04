@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see the &lt;a0&gt;FAQ&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T134819Z" creationid="user" creationdate="20230104T134819Z">
+        <seg>Voor meer info, zie &lt;a0&gt;FAQ&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the following sets the tray icon to the default icon used by ahk files:</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T192308Z" creationid="user" creationdate="20221226T192308Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T134124Z" creationid="user" creationdate="20221226T134124Z">
         <seg>In ANSI builds is dit niet gedefinieerd, dus effectief &lt;i1&gt;onwaar&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Explorer, right-click in empty space in the folder where you want to save the script, then select &lt;s0&gt;New&lt;/s0&gt; and &lt;s1&gt;AutoHotkey Script&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T135137Z" creationid="user" creationdate="20230104T135137Z">
+        <seg>In Verkenner, klik rechts in een map waar die het script wil bewaren, vervolgens kies je&lt;s0&gt;Nieuw&lt;/s0&gt; en &lt;s1&gt;AutoHotkey Script&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +928,8 @@
       <tuv lang="en">
         <seg>On some systems you may need to enclose the name in quotes to ensure the editor does not add another extension (such as .txt).</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20230104T134451Z" creationid="user" creationdate="20230104T134451Z">
-        <seg>sommige systemen is het mogelijk dat je de naam in quotes moet zetten zodat de editor geen er andere extensie aan toevoegt (zoals .txt).</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T134754Z" creationid="user" creationdate="20230104T134451Z">
+        <seg>Sommige systemen is het mogelijk dat je de naam in quotes moet zetten zodat de editor geen er andere extensie aan toevoegt (zoals .txt).</seg>
       </tuv>
     </tu>
     <tu>
