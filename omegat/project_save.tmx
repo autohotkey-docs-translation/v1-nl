@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On some systems you may need to enclose the name in quotes to ensure the editor does not add another extension (such as .txt).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T134451Z" creationid="user" creationdate="20230104T134451Z">
+        <seg>sommige systemen is het mogelijk dat je de naam in quotes moet zetten zodat de editor geen er andere extensie aan toevoegt (zoals .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135453Z" creationid="user" creationdate="20221226T135453Z">
