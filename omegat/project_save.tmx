@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script can do as little as performing a single action and then exiting, but most scripts define a number of &lt;a1&gt;hotkeys&lt;/a1&gt;, with each hotkey followed by one or more actions to take when the hotkey is pressed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T131834Z" creationid="user" creationdate="20230104T131834Z">
+        <seg>Een script kan één enkele actie uitvoeren en dan stoppen, maar de meeste scripts definiëren een aantal &lt;a1&gt;hotkeys&lt;/a1&gt;, waarbij iedere hotkey gevolgd wordt door een of meerdere acties wanneer de hotkey is ingedrukt pressed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script is simply a plain text file with the &lt;c0&gt;.ahk&lt;/c0&gt; filename extension containing instructions for the program, like a configuration file, but much more powerful.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230103T223320Z" creationid="user" creationdate="20230103T223320Z">
