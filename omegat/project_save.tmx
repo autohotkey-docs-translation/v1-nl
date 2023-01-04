@@ -256,8 +256,8 @@
       <tuv lang="en">
         <seg>Allows items in a collection to be enumerated.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T133214Z" creationid="user" creationdate="20221226T133214Z">
-        <seg>laat items in een collectie toe om samen te voegen.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T142858Z" creationid="user" creationdate="20221226T133214Z">
+        <seg>Laat items in een collectie toe om samen te voegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>Contains the size of a pointer, in bytes.</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T134806Z" creationid="user" creationdate="20221226T134806Z">
-        <seg>bevat de grote van de pointer, in bytes.</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T143033Z" creationid="user" creationdate="20221226T134806Z">
+        <seg>Bevat de grote van de pointer, in bytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,8 +1328,8 @@
       <tuv lang="en">
         <seg>The name of the last key which was pressed prior to the most recent key-press or key-release ... &lt;a0&gt;(More)&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20221226T134742Z" creationid="user" creationdate="20221226T134742Z">
-        <seg>de naam van de laatste ingedrukte knop voorafgaand aan de meest recente ingedrukte knop of losgelaten knop ... &lt;a0&gt;(More)&lt;/a0&gt;</seg>
+      <tuv lang="nl" changeid="user" changedate="20230104T143000Z" creationid="user" creationdate="20221226T134742Z">
+        <seg>De naam van de laatste ingedrukte knop voorafgaand aan de meest recente ingedrukte knop of losgelaten knop ... &lt;a0&gt;(More)&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
