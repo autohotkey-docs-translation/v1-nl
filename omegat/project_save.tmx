@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts can also be &lt;a0&gt;compiled&lt;/a0&gt;; that is, combined together with an AutoHotkey binary file to form a self-contained executable (.exe) file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230104T150621Z" creationid="user" creationdate="20230104T150621Z">
+        <seg>Scripts kunnen ook &lt;a0&gt;gecompileerd&lt;/a0&gt; worden; zo bekom je tesamen met een AutoHotkey binair bestand een op zichzelf staand executable (.exe) bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches for a given &lt;e0&gt;occurrence&lt;/e0&gt; of a string, from the left or the right.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T142847Z" creationid="user" creationdate="20221226T131157Z">
