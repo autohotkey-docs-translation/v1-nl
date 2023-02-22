@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;a0&gt;#NoTrayIcon&lt;/a0&gt; directive can be used to hide the tray icon.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T233315Z" creationid="user" creationdate="20230222T233315Z">
+        <seg>De &lt;a0&gt;#NoTrayIcon&lt;/a0&gt; opdracht kan gebruikt worden om het systeemicoon te verbergen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;Menu&lt;/a0&gt; command can be used to customise the tray icon and menu.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230222T233207Z" creationid="user" creationdate="20230222T233207Z">
