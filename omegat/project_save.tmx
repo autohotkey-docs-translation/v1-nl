@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help - Open the AutoHotkey offline help file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232021Z" creationid="user" creationdate="20230222T232021Z">
+        <seg>Help - Opent het AutoHotkey offline help bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History of AutoHotkey_L revisions.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140248Z" creationid="user" creationdate="20221226T140248Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T134754Z" creationid="user" creationdate="20230104T134451Z">
         <seg>Sommige systemen is het mogelijk dat je de naam in quotes moet zetten zodat de editor geen er andere extensie aan toevoegt (zoals .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open - Open the script's &lt;a0&gt;main window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T231950Z" creationid="user" creationdate="20230222T231926Z">
+        <seg>Open - Opent het script's &lt;a0&gt;main window&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T190002Z" creationid="user" creationdate="20221226T190002Z">
         <seg>&lt;i0&gt;nnn&lt;/i0&gt; moet een een nummer &lt;a1&gt;code page identifier&lt;/a1&gt; zijn, &lt;i2&gt;Encoding&lt;/i2&gt; volgt hetzelfde patroon, formaat, als &lt;a3&gt;FileEncoding&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Window Spy - Displays various information about a window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232115Z" creationid="user" creationdate="20230222T232115Z">
+        <seg>Window Spy - Toont verschillende info betreffende het actieve scherm.</seg>
       </tuv>
     </tu>
     <tu>
