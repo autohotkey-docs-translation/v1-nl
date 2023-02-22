@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tray icon usually looks like this (but the color or letter changes when the script is &lt;a0&gt;paused&lt;/a0&gt; or &lt;a1&gt;suspended&lt;/a1&gt;):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T231731Z" creationid="user" creationdate="20230222T231731Z">
+        <seg>Het systeemicoon ziet er meestal als volgende uit (maar de kleur of de letter verandert wanneer het script is  &lt;a0&gt;gepauseerd (pause)&lt;/a0&gt; of  &lt;a1&gt;opgeschordt (suspend)&lt;/a1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The unique ID (HWND/handle) of the script's hidden main window.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T135121Z" creationid="user" creationdate="20221226T135121Z">
