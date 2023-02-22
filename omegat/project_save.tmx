@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click the tray icon to show the tray menu, which has the following options by default:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T231905Z" creationid="user" creationdate="20230222T231905Z">
+        <seg>Klik rechts op het systeemicoon om het systeemmenu tevoorschijn te laten komen. Dit menu heeft standaard volgende opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run a Script</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132802Z" creationid="user" creationdate="20230104T132802Z">
