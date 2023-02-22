@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit This Script - See &lt;a0&gt;Edit&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232144Z" creationid="user" creationdate="20230222T232144Z">
+        <seg>Edit This Script - Zie &lt;a0&gt;Edit&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit a Script</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132722Z" creationid="user" creationdate="20230104T132722Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221226T140307Z" creationid="user" creationdate="20221226T140307Z">
         <seg>Fouten opvangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit - Exit the script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232409Z" creationid="user" creationdate="20230222T232409Z">
+        <seg>Exit - Stopt het script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pause Script - &lt;a0&gt;Pause&lt;/a0&gt; or unpause the script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232400Z" creationid="user" creationdate="20230222T232400Z">
+        <seg>Pause Script - &lt;a0&gt;Pauseet&lt;/a0&gt; of activeert het script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perform code page or HTML transformations.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221220T200757Z" creationid="user" creationdate="20221220T200757Z">
@@ -1122,6 +1146,14 @@
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20221213T195828Z" creationid="user" creationdate="20221213T195828Z">
         <seg>RegEx snelle referenties </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload This Script - See &lt;a0&gt;Reload&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232135Z" creationid="user" creationdate="20230222T232135Z">
+        <seg>Reload This Script - Zie &lt;a0&gt;Reload&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Suspend Hotkeys - &lt;a0&gt;Suspend&lt;/a0&gt; or unsuspend hotkeys.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T232238Z" creationid="user" creationdate="20230222T232238Z">
+        <seg>Suspend Hotkeys - &lt;a0&gt;Deactiveert &lt;/a0&gt; of activeert de hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T132623Z" creationid="user" creationdate="20230104T132623Z">
@@ -1424,8 +1464,8 @@
       <tuv lang="en">
         <seg>The tray icon usually looks like this (but the color or letter changes when the script is &lt;a0&gt;paused&lt;/a0&gt; or &lt;a1&gt;suspended&lt;/a1&gt;):</seg>
       </tuv>
-      <tuv lang="nl" changeid="user" changedate="20230222T231731Z" creationid="user" creationdate="20230222T231731Z">
-        <seg>Het systeemicoon ziet er meestal als volgende uit (maar de kleur of de letter verandert wanneer het script is  &lt;a0&gt;gepauseerd (pause)&lt;/a0&gt; of  &lt;a1&gt;opgeschordt (suspend)&lt;/a1&gt;):</seg>
+      <tuv lang="nl" changeid="user" changedate="20230222T232324Z" creationid="user" creationdate="20230222T231731Z">
+        <seg>Het systeemicoon ziet er meestal als volgende uit (maar de kleur of de letter verandert wanneer het script is  &lt;a0&gt;gepauseerd (pause)&lt;/a0&gt; of  &lt;a1&gt;gedeactiveerd (suspended)&lt;/a1&gt;):</seg>
       </tuv>
     </tu>
     <tu>
