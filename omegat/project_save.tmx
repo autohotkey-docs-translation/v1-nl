@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, each script adds its own icon to the taskbar notification area (commonly known as the tray).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T231416Z" creationid="user" creationdate="20230222T231416Z">
+        <seg>Elk script voegt standaard hun eigen icoon toe aan de systeem taakbalk .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Call AutoHotkey.exe on the command line and pass the script's filename as a &lt;a0&gt;command-line parameter&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230104T145421Z" creationid="user" creationdate="20230104T145421Z">
