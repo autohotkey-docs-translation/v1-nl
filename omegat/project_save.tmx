@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, double-clicking the tray icon shows the script's &lt;a0&gt;main window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="user" changedate="20230222T233027Z" creationid="user" creationdate="20230222T233027Z">
+        <seg>Door dubbel te klikken op het systeemicoon wordt, standaard, het &lt;a0&gt;algemeen scherm&lt;/a0&gt; van het script getoont..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, each script adds its own icon to the taskbar notification area (commonly known as the tray).</seg>
       </tuv>
       <tuv lang="nl" changeid="user" changedate="20230222T231416Z" creationid="user" creationdate="20230222T231416Z">
